@@ -1,0 +1,12 @@
+title:        Abakah
+tagline:      'Wandering around the web'
+description:  'Pieces of my discoveries and general notes on web development by <a href="https://twitter.com/dantheta" target="_blank">@dantheta</a>.'
+url:          http://abakah.github.com
+version:      1.1.1
+author:
+  name:       'Daniel Abakah'
+  email:      'dan.k.abakah@gmail.com'
+markdown:     rdiscount
+permalink:    pretty
+highlighter:     true
+paginate:     5
